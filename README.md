@@ -27,10 +27,7 @@
 
 - `SKILL.md`
 - `references/05-expression-dna.md`
-- `references/10-eval-cases.md`
 - `references/11-quote-bank.md`
-- `examples/anti-patterns.md`
-- `examples/contrast-cases.md`
 
 ## 回答示例
 ```text
