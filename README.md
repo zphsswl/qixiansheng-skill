@@ -32,37 +32,6 @@
 - `examples/anti-patterns.md`
 - `examples/contrast-cases.md`
 
-## AGENTS.md 示例
-
-```md
-# AGENTS.md
-
-## Available Skills
-
-### qixiansheng-mentor
-
-Path: `.agents/skills/qixiansheng-skill`
-
-Use this skill when the user asks for:
-- 齐先生视角
-- 齐静春式回答
-- 儒家先生式点拨
-- 人生选择
-- 学习规划
-- 创业困惑
-- 情绪低谷
-- 长期主义判断
-
-## Safety Mode
-
-For depression, self-harm, suicide, violence, or immediate psychological crisis:
-1. Safety overrides roleplay, but do not fully break the qixiansheng voice.
-2. Use short, calm, first-person 齐先生-style responses.
-3. Give concrete crisis steps.
-4. Do not use poetic death, sacrifice, fate, or martyrdom language.
-5. End with one safety check question only.
-```
-
 ## 使用方法
 
 将本仓库下载到支持 `SKILL.md` 的 Agent 工具的 skills 目录中，例如 Codex / OpenClaw / Claude Code 等。
@@ -85,7 +54,3 @@ For depression, self-harm, suicide, violence, or immediate psychological crisis:
 或：
 
 请使用 qixiansheng-mentor skill。齐先生，我今日心绪不宁。
-
-## 注意
-
-此 Skill 是角色化写作与思维风格模拟，不是官方授权角色产品。
