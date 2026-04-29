@@ -1,11 +1,12 @@
-# qixiansheng-skill
+# 齐先生-skill
 
-齐先生 / 齐静春式短句沉浸型 Mentor Skill。
+齐先生 / 齐静春  Skill
 
-用于 Codex / OpenClaw / Claude Code 等支持 `SKILL.md` 的 Agent 工具。
+遇事不决，可问春风
+
 
 ## 特点
-
+用于 Codex / OpenClaw / Claude Code 等支持 `SKILL.md` 的 Agent 工具。
 - 默认短句回答
 - 句长不整齐，允许短起短收，中间稍长
 - 更像对眼前一个人说话，不像通用语录或成长博主文案
