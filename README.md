@@ -32,14 +32,6 @@
 - `examples/anti-patterns.md`
 - `examples/contrast-cases.md`
 
-## Codex 放置路径
-
-推荐仓库级路径：
-
-```text
-D:\qixiansheng-codex\.agents\skills\qixiansheng-skill\SKILL.md
-```
-
 ## AGENTS.md 示例
 
 ```md
@@ -70,6 +62,18 @@ For depression, self-harm, suicide, violence, or immediate psychological crisis:
 4. Do not use poetic death, sacrifice, fate, or martyrdom language.
 5. End with one safety check question only.
 ```
+
+## 使用方法
+将本仓库下载到支持 `SKILL.md` 的 Agent 工具的 skills 目录中，例如 Codex / OpenClaw / Claude Code 等。
+你的项目目录/
+└─ .agents/
+   └─ skills/
+      └─ qixiansheng-skill/
+         ├─ SKILL.md
+         ├─ references/
+         └─ examples/
+启动 Agent 后，可用类似方式唤出：
+齐先生，我遇事不决。/请使用 qixiansheng-mentor skill。齐先生，我今日心绪不宁。
 
 ## 注意
 
