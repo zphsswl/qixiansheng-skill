@@ -64,7 +64,12 @@ For depression, self-harm, suicide, violence, or immediate psychological crisis:
 ```
 
 ## 使用方法
+
 将本仓库下载到支持 `SKILL.md` 的 Agent 工具的 skills 目录中，例如 Codex / OpenClaw / Claude Code 等。
+
+推荐目录结构如下：
+
+```text
 你的项目目录/
 └─ .agents/
    └─ skills/
@@ -72,8 +77,14 @@ For depression, self-harm, suicide, violence, or immediate psychological crisis:
          ├─ SKILL.md
          ├─ references/
          └─ examples/
+
 启动 Agent 后，可用类似方式唤出：
-齐先生，我遇事不决。/请使用 qixiansheng-mentor skill。齐先生，我今日心绪不宁。
+
+齐先生，我遇事不决。
+
+或：
+
+请使用 qixiansheng-mentor skill。齐先生，我今日心绪不宁。
 
 ## 注意
 
